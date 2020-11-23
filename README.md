@@ -1,7 +1,7 @@
 # IPoM-Sentiment-Analysis
 Ejemplo rápido de análisis de sentimiento para la nota de prensa del IPoM septiembre 2020.
 
-Se realiza un análisis de sentimiento meidante dos modelos: ([vaderSentiment](https://github.com/cjhutto/vaderSentiment) sobre una traducción al inglés ([deep-translator](https://github.com/nidhaloff/deep-translator)) y [pysentimiento](https://github.com/finiteautomata/pysentimiento)) sobre el texto en idioma original.
+Se realiza un análisis de sentimiento mediante dos modelos: ([vaderSentiment](https://github.com/cjhutto/vaderSentiment) sobre una traducción al inglés ([deep-translator](https://github.com/nidhaloff/deep-translator)) y [pysentimiento](https://github.com/finiteautomata/pysentimiento)) sobre el texto en idioma original.
 
 El análisis está disponible en este [notebook](https://github.com/aastroza/IPoM-Sentiment-Analysis/blob/main/analisis-ejemplo.ipynb).
 
